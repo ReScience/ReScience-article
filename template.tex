@@ -80,6 +80,7 @@ $else$
             pdfborder={0 0 0},
 $endif$
             breaklinks=true}
+
 \urlstyle{same}  % don't use monospace font for urls
 $if(lang)$
 \ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
@@ -192,6 +193,8 @@ $for(header-includes)$
 $header-includes$
 $endfor$
 
+
+
 %% $if(title)$
 %% \title{$title$$if(thanks)$\thanks{$thanks$}$endif$}
 %% $endif$
@@ -205,8 +208,13 @@ $endfor$
 %% \date{$date$}
 
 $if(title)$
+$if(subtitle)$
+\title{$title$\\ {\large $subtitle$}}
+$else$
 \title{$title$}
 $endif$
+$endif$
+
 
 $if(author)$
     \usepackage{authblk}
@@ -264,6 +272,7 @@ $endif$
 $if(lof)$
 \listoffigures
 $endif$
+
 $body$
 
 $if(natbib)$
@@ -283,6 +292,5 @@ $if(biblatex)$
 $endif$
 $for(include-after)$
 $include-after$
-
 $endfor$
 \end{document}
