@@ -1,13 +1,13 @@
 Motivation for replication
 ===============================================================================
 
-It has been said many times by many authors in the litterature that
+It has been said many times by many authors in the literature that
 reproducibility is the cornerstone of Science and we, as a scientific
 community, should aim at such reproducibility. However, good intention are not
 sufficient and a given computational results can be declared reproducible if
 and only if it has been actually replicated in a the sense of a brand new
 open-source and documented implementation. As explained before, writing such
-replication might be a daunting taks that is not really rewarded and we may
+replication might be a daunting task that is not really rewarded and we may
 thus wondered what could be the motivation for doing so ? Such motivations are
 indeed diverse and range from the simple student who want to train oneself in
 order to get familiar with a specific scientific domain up to the senior
