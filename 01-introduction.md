@@ -16,7 +16,7 @@ sciences (in the broad sense) and computer sciences are no exception even
 though they rely mostly on code and data that are assumed to be not prone to
 the aforementioned problems. But reality is quite different though. When
 [@collberg:2014; @collberg:2015] decided to measure precisely the extent of the
-problem, they investigated the availibility of the code and data, and *the
+problem, they investigated the availability of the code and data, and *the
 extent to which this code would actually build with reasonable effort*. The
 results were dramatic. On the 515 potentially reproducible papers (out of 613)
 targeted by the study, authors managed to ultimately run only 102 of them. Less
@@ -25,7 +25,7 @@ to run the code. They did not even check for the correctness of the code (does
 the code actually implements what is advertised in the paper) nor the
 replicability of the results (does the run lead to the same results as in the
 paper).  @topalidou:2015:a encountered the same problem when they tried to
-replicate a model from the computational neuroscience litterature: source code
+replicate a model from the computational neuroscience literature: source code
 were not part of the supplementary section of the paper and no link nor
 repository were given in the main text. When they finally get their hands on
 the code (after contacting the corresponding author), it was only to realize it
@@ -35,7 +35,7 @@ Faced with such a reality, a growing number of journal and publisher have
 adopted data and software policies in order to guarantee their availability in
 a proper format (a.k.a. usable) at the time of publication, even though this
 does not guarantee their quality nor their correctness. But things are starting
-to change with a growing litterature on best practices for making code
+to change with a growing literature on best practices for making code
 reproducible and correct *from the start and not as an after thought*
 [@sandve:2013, @crook:2013, @wilson:2014, @halchenko:2015, @janz:2015, @hinsen:2015]
 to paraphrase @halchenko:2015. There are also original initiative such as
@@ -48,13 +48,13 @@ in the long-term. Obviously, best practices could be as well applied to already
 published research software or code, provided the original author(s) is willing
 to take the challenge of reimplementing his/her own software for the sake of
 Science; which is unlikely because unfortunately, the incentives for doing such
-a time-consuming task are low or inexistent. Furthermore, if the original
+a time-consuming task are low or nonexistent. Furthermore, if the original
 author did some mistake in his/her original implementation, chances are that
 he/she'll reproduce the same mistake over and over again (just an educated
 guess, we have no data supporting this assertion). At this point, the question
 is what do we do? Do we have to declare the research to be lost once and for
 all because the associated software or code is nowhere to be found / lost /
-damaged / malfunctionning / not runnable / not usable / does not give original
+damaged / malfunctioning / not runnable / not usable / does not give original
 results / etc. We would doom ourselves by doing so and some people are actually
 willing to replicate computational research because they are interested in the
 original results for various reasons. But if those researchers write a brand
