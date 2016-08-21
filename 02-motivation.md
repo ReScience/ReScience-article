@@ -1,17 +1,17 @@
 Motivation for replication
 ===============================================================================
 
-It has been said many times by many authors in the litterature that
+It has been said many times by many authors in the literature that
 reproducibility is the cornerstone of Science and we, as a scientific
-community, should aim at such reproducibility. However, good intention are not
-sufficient and a given computational results can be declared reproducible if
+community, should aim at such reproducibility. However, good intentions are not
+sufficient and a given computational result can be declared reproducible if
 and only if it has been actually replicated in a the sense of a brand new
-open-source and documented implementation. As explained before, writing such
-replication might be a daunting taks that is not really rewarded and we may
-thus wondered what could be the motivation for doing so ? Such motivations are
-indeed diverse and range from the simple student who want to train oneself in
-order to get familiar with a specific scientific domain up to the senior
-researcher that has a critical need of a specific piece of code:
+open-source and documented implementation. As explained before, writing such a
+replication might be a daunting task that is not really rewarded and we may
+thus wonder what could be the motivation for doing so? Such motivations are
+indeed diverse and range from simple students who want to train themselves in
+order to get familiar with a specific scientific domain, up to senior
+researchers that have a critical need of a specific piece of code. For example:
 
 **@stachelek:2016**: I was motivated to replicate the results of the original
 paper because I feel that working through code supplements to blog posts has
@@ -52,16 +52,16 @@ parameterized to really work. Without any place to publish it, this
 knowledge is wasted. Publishing it in ReScience, opening the discussion
 publicly, will be a progress for all of us.
 
-ReScience already published 4 articles and as shown above, the original
-motivations of these authors are all different and this might become even more
+ReScience has already published four articles and, as shown above, the original
+motivations of these authors are all different. This might become even more
 obvious and diverse with future publications. But, beyond these motivations,
 publishing in ReScience may be especially important for students since this
-represent a unique opportunity to show the community a given student is able to
+represents a unique opportunity to show the community a given student is able to
 read a scientific article, to have a deep understanding of it, to write a new
 implementation and to eventually write a scientific article describing his/her
 work. Although the ReScience publishing model is a bit different from other
 academic journals, it can give students a first experience at peer-reviewed
-scholarly publishing, including meeting standards of scientific rigor and
+scholarly publishing, including meeting standards of scientific rigour and
 addressing reviewers' comments. Furthermore, publishing in ReScience is a way
 to actively contribute to open science while adding to one's publication
 record.
