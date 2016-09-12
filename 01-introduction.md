@@ -31,26 +31,26 @@ repository were given in the main text. When they finally get their hands on
 the code (after contacting the corresponding author), it was only to realize it
 cannot be compiled and was mostly unusable.
 
-Faced with such a reality, a growing number of journal and publisher have
+Faced with such a reality, a growing number of journals and publishers have
 adopted data and software policies in order to guarantee their availability in
 a proper format (a.k.a. usable) at the time of publication, even though this
 does not guarantee their quality nor their correctness. But things are starting
 to change with a growing literature on best practices for making code
 reproducible and correct *from the start and not as an after thought*
 [@sandve:2013, @crook:2013, @wilson:2014, @halchenko:2015, @janz:2015, @hinsen:2015]
-to paraphrase @halchenko:2015. There are also original initiative such as
+to paraphrase @halchenko:2015. There are also original initiatives such as
 software and data carpentry [@wilson:2016] whose goal is *to make scientists
 more productive, and their work more reliable, by teaching them basic computing
-skills*. None of this solve the problem of long-term preservation of code and
-data but the newly started software heritage initiative[^1] that aim at
-collecting and preserving software in source code form might solve the problem
-in the long-term. Obviously, best practices could be as well applied to already
-published research software or code, provided the original author(s) is willing
-to take the challenge of reimplementing his/her own software for the sake of
-Science; which is unlikely because unfortunately, the incentives for doing such
+skills*. None of these solve the problem of long-term preservation of code and
+data but the newly started software heritage initiative[^1] that aims to
+collect and preserve software in source code form might solve the problem
+in the long-term. Obviously, best practices could also be applied to already
+published research software or code, provided the original authors are willing
+to take the challenge of reimplementing their own software for the sake of
+Science. This is unlikely because unfortunately, the incentives for doing such
 a time-consuming task are low or nonexistent. Furthermore, if the original
-author did some mistake in his/her original implementation, chances are that
-he/she'll reproduce the same mistake over and over again (just an educated
+author did some mistake in their original implementation, chances are that
+they will reproduce the same mistake over and over again (just an educated
 guess, we have no data supporting this assertion). At this point, the question
 is what do we do? Do we have to declare the research to be lost once and for
 all because the associated software or code is nowhere to be found / lost /
