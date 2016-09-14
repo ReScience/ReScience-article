@@ -34,13 +34,13 @@ address:
 contact:
   - Nicolas.Rougier@inria.fr
 abstract: |
-  ReScience is a peer-reviewed journal that target computational research and
-  encourage the explicit replication of already published research promoting
+  ReScience is a peer-reviewed journal that targets computational research and
+  encourages the explicit replication of already published research thereby promoting
   new and open-source implementations in order to ensure the original research
   is replicable. To achieve such a goal, the whole editing chain is radically
-  different from any other traditional scientific journal. ReScience lives
-  mainly on github where each new implementation is made available together
-  with the comments, explanations and tests. Each submission takes the form of
+  different traditional scientific journals. ReScience lives
+  mainly on Github where each new article and code implementation is made available together
+  with comments, explanations and tests. Each submission takes the form of
   a pull request that is publicly reviewed and tested in order to guarantee any
   researcher can re-use it.
 ---
