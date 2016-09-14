@@ -17,7 +17,7 @@ author:
   - name: Julien Vitay
     affiliation: 3
   - name: Joseph Stachelek
-    affiliation: 3
+    affiliation: 4
   - name: Timothée Poisot
     affiliation: 3
   - name: Yoav Ram
@@ -29,6 +29,8 @@ address:
     address: Centre de Biophysique Moleculaire, CNRS, Orleans, France
   - code:    3
     address: Fill your affiliation with proper code...
+  - code:    4
+    address: Michigan State University, East Lansing, USA
 contact:
   - Nicolas.Rougier@inria.fr
 abstract: |
