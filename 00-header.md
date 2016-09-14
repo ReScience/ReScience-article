@@ -38,7 +38,7 @@ abstract: |
   encourages the explicit replication of already published research thereby promoting
   new and open-source implementations in order to ensure the original research
   is replicable. To achieve such a goal, the whole editing chain is radically
-  different traditional scientific journals. ReScience lives
+  different compared to traditional scientific journals. ReScience lives
   mainly on Github where each new article and code implementation is made available together
   with comments, explanations and tests. Each submission takes the form of
   a pull request that is publicly reviewed and tested in order to guarantee any
